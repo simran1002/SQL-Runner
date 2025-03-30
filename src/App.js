@@ -31,7 +31,7 @@ const SAMPLE_QUERIES = {
         [1, 'Rushi Trivedi', 'rushi123@gmail.com', '2025-01-01'],
         [2, 'Muralidhar Goparaju', 'murali123@gmail.com', '2025-01-02'],
         [3, 'Ashish Sharma', 'ashish123@gmail.com', '2025-01-03'],
-        [4, 'Nitish Chhabra', 'nitish123@example.com', '2025-01-03'],
+        [4, 'Nitish Chhabra', 'nitish123@gmail.com', '2025-01-03'],
       ]
     }
   },
