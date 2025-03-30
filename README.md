@@ -50,3 +50,9 @@ These metrics were measured using Chrome DevTools Performance tab and Lighthouse
 - Clean, minimalist UI design
 - Support for large datasets
 - Fast re-rendering and state updates
+
+![alt text](<Screenshot 2025-03-30 222014.png>)
+![alt text](<Screenshot 2025-03-30 221944-1.png>)
+![alt text](<Screenshot 2025-03-30 222032.png>)
+![alt text](<Screenshot 2025-03-30 222107.png>)
+![alt text](<Screenshot 2025-03-30 222000.png>)
